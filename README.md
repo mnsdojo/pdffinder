@@ -27,4 +27,7 @@ pdffinder scan "paper.pdf"
 ```bash
 pip install -e .
 ```
-# pdffinder
+
+## Links
+
+GitHub: https://github.com/mnsdojo/pdffinder

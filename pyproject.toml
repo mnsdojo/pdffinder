@@ -28,8 +28,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pablo/pdffinder"
-Repository = "https://github.com/pablo/pdffinder"
+Homepage = "https://github.com/mnsdojo/pdffinder"
+Repository = "https://github.com/mnsdojo/pdffinder"
 
 [project.scripts]
 pdffinder = "pdffinder.cli:app"
