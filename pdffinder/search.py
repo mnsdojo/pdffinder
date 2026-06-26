@@ -69,3 +69,7 @@ def search_pdfs(query: str, max_results: int = 10) -> list[dict]:
         })
 
     return results
+
+
+
+
